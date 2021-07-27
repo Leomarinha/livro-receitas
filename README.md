@@ -2,5 +2,6 @@
 
 ### Olá, bem-vindo ao livro de receitas! :call_me_hand:
 
-
+* Sopa de Feijão
+* Pavê
 
